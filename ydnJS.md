@@ -11,4 +11,4 @@
 
 #### 第三章 - 函数作用域和块作用域
 
-[./part1ch2-lexing.md](./part1ch2-lexing.md)
+[./part1ch3-fscope&bscope.md](./part1ch3-fscope&bscope.md)
