@@ -20,3 +20,7 @@
 #### 第五章 - 作用域闭包
 
 [./part1ch5-closures.md](./part1ch5-closures.md)
+
+#### 附录
+
+[./part1ch6-more.md](./part1ch6-more.md)
