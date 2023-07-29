@@ -2,25 +2,29 @@
 
 ### 上卷-第一部分
 
-#### 第一章 - 作用域
-[./part1ch1-scope.md](./part1ch1-scope.md)
+#### 第一章 - 关于this
+[./part2ch1-this.md](./part2ch1-this.md)
 
-#### 第二章 - 词法作用域
+#### 第二章 - this全面解析
 
-[./part1ch2-lexing.md](./part1ch2-lexing.md)
+[./part2ch2-this-more.md](./part2ch2-this-more.md)
 
-#### 第三章 - 函数作用域和块作用域
+#### 第三章 - 对象
 
-[./part1ch3-fscope&bscope.md](./part1ch3-fscope&bscope.md)
+[./part2ch3-object.md](./part2ch3-object.md)
 
-#### 第四章 - 提升
+#### 第四章 - 混合对象'类'
 
-[./part1ch4-hoisting.md](./part1ch4-hoisting.md)
+[./part2ch4-mixingClass.md](./part2ch4-mixingClass.md)
 
-#### 第五章 - 作用域闭包
+#### 第五章 - 原型
 
-[./part1ch5-closures.md](./part1ch5-closures.md)
+[./part2ch5-prototype.md](./part2ch5-prototype.md)
 
-#### 附录
+#### 第六章 - 行为委托
 
-[./part1ch6-more.md](./part1ch6-more.md)
+[./part2ch6-behavior-delegating.md](./part2ch6-behavior-delegating.md)
+
+#### 附录 - ES6中的Class
+
+[./part2ch7-ES6-class.md](./part2ch7-ES6-class.md)
